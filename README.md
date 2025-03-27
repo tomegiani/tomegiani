@@ -2,7 +2,9 @@
 
 <div>About Me:</div>
 🖥️  I am currently studying software engineering at FIAP
+<div>[![Gmail]tome.rossi@gmail.com
 
+</div>
 
 
 
