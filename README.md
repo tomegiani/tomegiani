@@ -1,5 +1,5 @@
 <h1 align="center">
-Welcome there!👋 I'm+Tomé Giani!
+Welcome there!👋 I'm Tomé Giani!
 </h1>
 
  <!-- GitHub Stats -->
