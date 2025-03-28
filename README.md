@@ -18,9 +18,7 @@
     <br>
 </div>
 <!-- Giff -->
-<div>
-  ![Image](https://github.com/user-attachments/assets/5e23b899-f5fa-4ff6-be1c-20dcecde4390)
-</div>
+
 
 
  
