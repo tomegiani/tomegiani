@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=800080&lines=Welcome+There!+👋;+I'm+Tomé Giani!" />
+Welcome there!👋 I'm+Tomé Giani!
 </h1>
 
  <!-- GitHub Stats -->
