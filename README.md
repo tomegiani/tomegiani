@@ -3,9 +3,7 @@
 <div>About Me:</div>
 🖥️  I am currently studying software engineering at FIAP
 
-<div>
-![tomegiani GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
-</div>
+
  <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
