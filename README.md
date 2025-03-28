@@ -7,6 +7,11 @@ Welcome there!👋 I'm Tomé Giani!
 -  Now I'm a student of Software engineer at Fiap -  Faculdade de Informática e Administração Paulista"
 
 
+<div style="text-align: center;" align="center">
+  <h3> GITHUB STATS 📈</h3>
+  <br>
+
+
    <!-- Language e tools -->
 
  <h3 aling="left">📖My lenguages~</h3>
