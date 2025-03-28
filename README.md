@@ -11,9 +11,6 @@ Welcome there!👋 I'm Tomé Giani!
   <h3> GITHUB STATS 📈</h3>
   <br>
 <!-- GitHub Stats -->
- <h3> GITHUB STATS 📈</h3>
-  <br>
-<!-- GitHub Stats -->
 
   <!-- Streak Stats -->
   <div align="center">
