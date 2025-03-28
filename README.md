@@ -17,8 +17,13 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomegiani&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="tomegiani" "/>
     <br>
 </div>
- 
 
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/tomegiani/tomegiani/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+ 
    <!-- Language e tools -->
 
  <h3 aling="left">📖My lenguages~</h3>
