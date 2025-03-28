@@ -9,7 +9,7 @@ Welcome there!👋 I'm Tomé Giani!
 
    <!-- Language e tools -->
 
- <h3 aling="left">🤓My lenguages~</h3>
+ <h3 aling="left">📖My lenguages~</h3>
 
 <div align="left">
  <img src="https://skillicons.dev/icons?i=python,html,css,js" /> <br><br>
