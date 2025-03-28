@@ -31,6 +31,16 @@
   <img width="8" />
 </div>
 
+## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30"> **Follow Me:** 
+<div align="center">
+    <a href="tome.rossi@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>    
+
+<a href="https://www.instagram.com/tome._giani/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 <h3 aling="left">🖥️My Tools~</h3>
 <div aling="left">
   <img src="https://skillicons.dev/icons?i=vscode,pycharm" /> <br><br>
