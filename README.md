@@ -17,6 +17,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomegiani&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="tomegiani" "/>
     <br>
 </div>
+<!-- Giff -->
+<div>
+  ![Image](https://github.com/user-attachments/assets/5e23b899-f5fa-4ff6-be1c-20dcecde4390)
+</div>
 
 
  
