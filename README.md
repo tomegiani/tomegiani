@@ -7,17 +7,7 @@
 -  Now I'm a student of Software engineer at Fiap -  Faculdade de Informática e Administração Paulista"
 
 
-<div style="text-align: center;" align="center">
-  <h3> GITHUB STATS 📈</h3>
-  <br>
-<!-- GitHub Stats -->
 
-  <!-- Streak Stats -->
-  <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomegiani&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="tomegiani" "/>
-    <br>
-</div>
-<!-- Giff -->
 
 
 
