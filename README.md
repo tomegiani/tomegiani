@@ -6,7 +6,10 @@
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
 -  Now I'm a student of Software engineer at Fiap -  Faculdade de Informática e Administração Paulista"
 
-
+ <div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomegiani&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="tomegiani" "/>
+    <br>
+</div>
 
 
 
