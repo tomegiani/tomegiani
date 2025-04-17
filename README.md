@@ -1,29 +1,27 @@
-<h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=800080&lines=Welcome+There!+👋;+I'm+Tomé+Giani!" />
-</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C8a2c8&height=120&section=header"/>
 
- <!-- GitHub Stats -->
-## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
--  Now I'm a student of Software engineer at Fiap -  Faculdade de Informática e Administração Paulista"
 
- <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomegiani&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="tomegiani" "/>
-    <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Tomé+Rossi+Giani;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tomegiani&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Tomé Rossi Giani github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomegiani&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tomegiani&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-
+<div align="center">  
+<a href="https://www.instagram.com/tome._giani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
  
-   <!-- Language e tools -->
-
- <h3 aling="left">📖My lenguages~</h3>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" /> <br><br>
-  <img width="8" />
-</div>
-
+### Main skills:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 <h3 aling="left">🖥️My Tools~</h3>
 <div aling="left">
@@ -31,6 +29,6 @@
   <img width="8" />   
 </div>
 
-<div style="text-align: center;" align="center">
 
-   <!-- redes sociais -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C8a2c8&height=120&section=footer"/>
+
